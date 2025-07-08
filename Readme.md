@@ -1,0 +1,1 @@
+Basic Learning of Python to understand it and explore some GenAI through it
